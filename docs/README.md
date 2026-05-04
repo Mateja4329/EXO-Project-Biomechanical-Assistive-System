@@ -41,6 +41,19 @@ Ongoing work includes:
 - Biomechanical modeling
 - Real-time simulation of motion and force
 
+</> Markdown
+
+## Development Roadmap
+
+The project follows an iterative and modular development approach, where each subsystem is designed, simulated, and validated independently before integration.
+
+A simulation-first methodology is prioritized to reduce hardware complexity and enable early validation of control strategies and system behavior.
+
+- Phase 1: Concept and Architecture
+- Phase 2: Simulation (finger module)
+- Phase 3: Testing control systems
+- Phase 4: Hardware Prototyping
+
 ## Disclaimer
 
 This is an ongoing research and development project. The current repository reflects early-stage exploration and iterative system design.
