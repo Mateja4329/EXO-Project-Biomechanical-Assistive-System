@@ -53,5 +53,5 @@ See LICENSE file for details.
 
 ## Author
 
-Mateja Glišović
+Mateja Glišović <br>
 Faculty of Technical Sciences, University of Novi Sad
